@@ -53,7 +53,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![7 diagram](https://github.com/Kalyanesree/exp7/assets/163311552/fff8156a-1ce1-4e70-9b23-531c99b985c3)
+
 
 **RESULTS**
+
 Thus the program to implement a JK flipflop using verilog and validating their functionality using their functional tables is successfully completed.
